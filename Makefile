@@ -1,5 +1,5 @@
 PKG_NAME := pypi-xyzservices
-URL = https://files.pythonhosted.org/packages/12/ca/257bd311f5399bfb69765492e57e714aec8d503a3b44b9e695a47feb8c40/xyzservices-2024.6.0.tar.gz
+URL = https://files.pythonhosted.org/packages/a0/16/ae87cbd2d6bfc40a419077521c35aadf5121725b7bee3d7c51b56f50958b/xyzservices-2024.9.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
